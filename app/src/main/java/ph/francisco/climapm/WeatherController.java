@@ -1,4 +1,4 @@
-package com.londonappbrewery.climapm;
+package ph.francisco.climapm;
 
 import android.Manifest;
 import android.content.Context;
